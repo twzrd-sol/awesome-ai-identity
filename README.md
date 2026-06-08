@@ -43,6 +43,7 @@ The foundational protocol for reflective AI alignment.
 
 - [MESH BOOT Generator](https://id.activemirror.ai) - Create persistent AI identity in 60 seconds
 - [mesh-boot-generator (npm)](https://github.com/MirrorDNA-Reflection-Protocol/mesh-boot-generator) - CLI tool for generating MESH BOOTs
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain identity and trust scoring for AI agents on Solana. Verifies agent wallet reputation using the Solana ledger as an immutable identity record. Free MCP tools: `score_agent`, `preflight_check`. Paid: `get_trust_receipt` (x402). Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ### Memory Systems
 
